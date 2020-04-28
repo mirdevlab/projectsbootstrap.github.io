@@ -1,0 +1,53 @@
+/* Make Header Image Responsive */
+.back-img{
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 650px;
+	border-radius: 0px;
+}
+.headersize{
+	padding-top: 400px;
+	box-sizing: border-box;
+}
+
+/*Our Services */
+.ourservices{
+	padding: 100px 0px 60px;
+
+}
+.rowsetting{
+	margin: 80px 0px !important
+}
+.imgsetting{
+	border-radius: 100px;
+	height: 100%;
+	width: 30%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 24px;
+
+}
+.rowsetting h2{
+	margin-top: 20px;
+}
+.rowsetting p{
+	padding: 10px;
+	color: #6c757d;
+}
+
+/*Footer Change Style */
+
+.footer{
+	background-color: black;
+	color: white;
+	height: 50px;
+	
+	
+}
+.footer h6{
+	line-height: 50px;
+
+}
+
+
